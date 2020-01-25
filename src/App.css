@@ -3,3 +3,7 @@ body{
     sans-serif;
     padding: 60px;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
